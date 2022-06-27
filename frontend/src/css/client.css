@@ -1,0 +1,17 @@
+.main {
+    text-align: center;
+}
+
+.panel {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.connection-panel button {
+    margin-left: 0.5rem;
+}
+
+.input-panel button {
+    margin-left: 0.5rem;
+}
