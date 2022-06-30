@@ -8,10 +8,18 @@
     justify-content: space-around;
 }
 
-.connection-panel button {
+.panel__connection-panel button {
     margin-left: 0.5rem;
 }
 
-.input-panel button {
+.panel__input-panel button {
     margin-left: 0.5rem;
+}
+
+.panel__chat-table th {
+    text-align: left;
+}
+
+.panel__chat-table td {
+    text-align: left;
 }
